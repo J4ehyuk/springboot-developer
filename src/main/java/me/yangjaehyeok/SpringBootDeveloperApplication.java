@@ -1,4 +1,4 @@
-package me.yangjaehyeok.springbootdeveloper;
+package me.yangjaehyeok;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
