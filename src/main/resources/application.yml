@@ -16,3 +16,7 @@ spring:
   h2:
     console:
       enabled: true # 웹으로 조회하는 h2 콘솔 사용가능
+
+jwt:
+  issuer: ajufresh@gmail.com
+  secret_key: study-springboot
